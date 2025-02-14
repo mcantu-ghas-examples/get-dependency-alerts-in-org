@@ -9,8 +9,8 @@
   "author": "GitHub",
   "license": "MIT",
   "dependencies": {
-    "@octokit/graphql": "^4.5.3",
-    "@octokit/rest": "^17.11.2",
+    "@octokit/graphql": "^8.2.0",
+    "@octokit/rest": "^21.1.0",
     "delay": "^4.4.0",
     "dotenv": "^8.2.0",
     "p-reduce": "^2.1.0"
